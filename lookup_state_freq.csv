@@ -1,0 +1,106 @@
+state,disaster_type,state_event_count
+Andaman And Nicobar Islands,Cyclone,11
+Andaman And Nicobar Islands,Earthquake,551
+Andaman And Nicobar Islands,Landslide,1
+Andhra Pradesh,Cyclone,341
+Andhra Pradesh,Earthquake,2
+Andhra Pradesh,Flood,132
+Andhra Pradesh,Landslide,21
+Arunachal Pradesh,Earthquake,143
+Arunachal Pradesh,Flood,43
+Arunachal Pradesh,Landslide,51
+Assam,Earthquake,178
+Assam,Flood,222
+Assam,Landslide,86
+Bihar,Earthquake,17
+Bihar,Flood,139
+Bihar,Landslide,3
+Chandigarh,Flood,6
+Chhattisgarh,Earthquake,3
+Chhattisgarh,Flood,20
+Daman And Diu,Flood,2
+Delhi,Earthquake,5
+Delhi,Flood,17
+Delhi,Landslide,4
+Goa,Cyclone,3
+Goa,Flood,9
+Goa,Landslide,22
+Gujarat,Cyclone,68
+Gujarat,Earthquake,58
+Gujarat,Flood,113
+Gujarat,Landslide,2
+Haryana,Earthquake,11
+Haryana,Flood,29
+Haryana,Landslide,4
+Himachal Pradesh,Earthquake,57
+Himachal Pradesh,Flood,86
+Himachal Pradesh,Landslide,174
+Jammu And Kashmir,Earthquake,124
+Jammu And Kashmir,Flood,69
+Jammu And Kashmir,Landslide,211
+Jharkhand,Earthquake,8
+Jharkhand,Flood,27
+Jharkhand,Landslide,3
+Karnataka,Cyclone,5
+Karnataka,Flood,101
+Karnataka,Landslide,30
+Kerala,Cyclone,4
+Kerala,Earthquake,2
+Kerala,Flood,144
+Kerala,Landslide,60
+Ladakh,Earthquake,92
+Ladakh,Flood,2
+Madhya Pradesh,Earthquake,7
+Madhya Pradesh,Flood,53
+Madhya Pradesh,Landslide,2
+Maharashtra,Cyclone,9
+Maharashtra,Earthquake,40
+Maharashtra,Flood,98
+Maharashtra,Landslide,74
+Manipur,Earthquake,194
+Manipur,Flood,17
+Manipur,Landslide,63
+Meghalaya,Earthquake,42
+Meghalaya,Flood,21
+Meghalaya,Landslide,33
+Mizoram,Earthquake,48
+Mizoram,Flood,2
+Mizoram,Landslide,34
+Nagaland,Earthquake,39
+Nagaland,Flood,4
+Nagaland,Landslide,80
+Odisha,Cyclone,256
+Odisha,Earthquake,3
+Odisha,Flood,102
+Odisha,Landslide,10
+Puducherry,Cyclone,1
+Puducherry,Earthquake,2
+Puducherry,Flood,15
+Punjab,Earthquake,11
+Punjab,Flood,73
+Rajasthan,Earthquake,8
+Rajasthan,Flood,60
+Rajasthan,Landslide,6
+Sikkim,Earthquake,20
+Sikkim,Flood,10
+Sikkim,Landslide,40
+Tamil Nadu,Cyclone,164
+Tamil Nadu,Earthquake,3
+Tamil Nadu,Flood,65
+Tamil Nadu,Landslide,42
+Telangana,Earthquake,3
+Telangana,Flood,23
+Telangana,Landslide,1
+Tripura,Earthquake,13
+Tripura,Flood,26
+Tripura,Landslide,5
+Uttar Pradesh,Earthquake,6
+Uttar Pradesh,Flood,141
+Uttar Pradesh,Landslide,5
+Uttarakhand,Earthquake,90
+Uttarakhand,Flood,41
+Uttarakhand,Landslide,233
+West Bengal,Cyclone,287
+West Bengal,Earthquake,19
+West Bengal,Flood,112
+West Bengal,Landslide,81

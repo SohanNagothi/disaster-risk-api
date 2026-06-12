@@ -1,0 +1,88 @@
+state,disaster_type,state_avg_deaths
+Andaman And Nicobar Islands,Cyclone,6.666666666666667
+Andaman And Nicobar Islands,Earthquake,8195.5
+Andaman And Nicobar Islands,Landslide,0.0
+Andhra Pradesh,Cyclone,183.16129032258064
+Andhra Pradesh,Earthquake,16389.0
+Andhra Pradesh,Flood,407.51376146788994
+Andhra Pradesh,Landslide,1.5294117647058822
+Arunachal Pradesh,Flood,407.6341463414634
+Arunachal Pradesh,Landslide,5.076923076923077
+Assam,Earthquake,350.4
+Assam,Flood,300.9047619047619
+Assam,Landslide,7.352941176470588
+Bihar,Earthquake,130.33333333333334
+Bihar,Flood,493.349593495935
+Bihar,Landslide,0.3333333333333333
+Chandigarh,Flood,609.6666666666666
+Chhattisgarh,Flood,115.66666666666667
+Daman And Diu,Flood,225.0
+Delhi,Flood,163.625
+Delhi,Landslide,1.0
+Goa,Flood,1348.875
+Goa,Landslide,0.5
+Gujarat,Cyclone,148.33333333333334
+Gujarat,Flood,684.1648351648352
+Gujarat,Landslide,2.5
+Haryana,Flood,545.75
+Haryana,Landslide,0.3333333333333333
+Himachal Pradesh,Earthquake,47.0
+Himachal Pradesh,Flood,675.219512195122
+Himachal Pradesh,Landslide,5.6521739130434785
+Jammu And Kashmir,Earthquake,385.85714285714283
+Jammu And Kashmir,Flood,469.14
+Jammu And Kashmir,Landslide,5.04093567251462
+Jharkhand,Flood,371.8235294117647
+Jharkhand,Landslide,0.6666666666666666
+Karnataka,Flood,613.5208333333334
+Karnataka,Landslide,1.5238095238095237
+Kerala,Earthquake,16389.0
+Kerala,Flood,1050.7058823529412
+Kerala,Landslide,8.444444444444445
+Ladakh,Flood,14.0
+Madhya Pradesh,Earthquake,43.0
+Madhya Pradesh,Flood,347.3255813953488
+Madhya Pradesh,Landslide,9.0
+Maharashtra,Cyclone,22.0
+Maharashtra,Earthquake,177.0
+Maharashtra,Flood,368.3333333333333
+Maharashtra,Landslide,10.441176470588236
+Manipur,Earthquake,8.0
+Manipur,Flood,198.93333333333334
+Manipur,Landslide,3.547169811320755
+Meghalaya,Earthquake,112.0
+Meghalaya,Flood,302.7142857142857
+Meghalaya,Landslide,4.0
+Mizoram,Landslide,8.518518518518519
+Nagaland,Flood,16.0
+Nagaland,Landslide,9.423728813559322
+Odisha,Cyclone,934.8
+Odisha,Flood,866.1744186046511
+Odisha,Landslide,1.3333333333333333
+Puducherry,Cyclone,28.0
+Puducherry,Earthquake,16389.0
+Puducherry,Flood,157.35714285714286
+Punjab,Earthquake,73338.0
+Punjab,Flood,533.8793103448276
+Rajasthan,Flood,614.3265306122449
+Rajasthan,Landslide,10.8
+Sikkim,Earthquake,95.0
+Sikkim,Flood,701.2
+Sikkim,Landslide,10.482758620689655
+Tamil Nadu,Cyclone,87.24
+Tamil Nadu,Earthquake,16389.0
+Tamil Nadu,Flood,154.19230769230768
+Tamil Nadu,Landslide,5.972222222222222
+Telangana,Flood,28.0
+Telangana,Landslide,1.0
+Tripura,Flood,299.4761904761905
+Tripura,Landslide,7.2
+Uttar Pradesh,Earthquake,552.0
+Uttar Pradesh,Flood,338.3228346456693
+Uttar Pradesh,Landslide,2.0
+Uttarakhand,Flood,691.5641025641025
+Uttarakhand,Landslide,46.795121951219514
+West Bengal,Cyclone,57.07692307692308
+West Bengal,Earthquake,95.0
+West Bengal,Flood,912.7428571428571
+West Bengal,Landslide,5.855072463768116

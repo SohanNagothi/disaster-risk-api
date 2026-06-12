@@ -1,0 +1,768 @@
+state,disaster_type,month,state_monthly_count
+Andaman And Nicobar Islands,Cyclone,3,1
+Andaman And Nicobar Islands,Cyclone,5,3
+Andaman And Nicobar Islands,Cyclone,11,4
+Andaman And Nicobar Islands,Cyclone,12,3
+Andaman And Nicobar Islands,Earthquake,1,44
+Andaman And Nicobar Islands,Earthquake,2,43
+Andaman And Nicobar Islands,Earthquake,3,51
+Andaman And Nicobar Islands,Earthquake,4,43
+Andaman And Nicobar Islands,Earthquake,5,48
+Andaman And Nicobar Islands,Earthquake,6,45
+Andaman And Nicobar Islands,Earthquake,7,40
+Andaman And Nicobar Islands,Earthquake,8,46
+Andaman And Nicobar Islands,Earthquake,9,51
+Andaman And Nicobar Islands,Earthquake,10,50
+Andaman And Nicobar Islands,Earthquake,11,44
+Andaman And Nicobar Islands,Earthquake,12,46
+Andaman And Nicobar Islands,Landslide,6,1
+Andhra Pradesh,Cyclone,1,6
+Andhra Pradesh,Cyclone,4,10
+Andhra Pradesh,Cyclone,5,30
+Andhra Pradesh,Cyclone,6,24
+Andhra Pradesh,Cyclone,7,16
+Andhra Pradesh,Cyclone,8,36
+Andhra Pradesh,Cyclone,9,63
+Andhra Pradesh,Cyclone,10,89
+Andhra Pradesh,Cyclone,11,59
+Andhra Pradesh,Cyclone,12,8
+Andhra Pradesh,Earthquake,7,1
+Andhra Pradesh,Earthquake,12,1
+Andhra Pradesh,Flood,1,4
+Andhra Pradesh,Flood,2,11
+Andhra Pradesh,Flood,3,1
+Andhra Pradesh,Flood,4,1
+Andhra Pradesh,Flood,5,6
+Andhra Pradesh,Flood,6,5
+Andhra Pradesh,Flood,7,43
+Andhra Pradesh,Flood,8,29
+Andhra Pradesh,Flood,9,9
+Andhra Pradesh,Flood,10,11
+Andhra Pradesh,Flood,11,9
+Andhra Pradesh,Flood,12,3
+Andhra Pradesh,Landslide,2,2
+Andhra Pradesh,Landslide,4,1
+Andhra Pradesh,Landslide,5,1
+Andhra Pradesh,Landslide,6,4
+Andhra Pradesh,Landslide,7,1
+Andhra Pradesh,Landslide,8,5
+Andhra Pradesh,Landslide,9,1
+Andhra Pradesh,Landslide,10,2
+Andhra Pradesh,Landslide,11,2
+Andhra Pradesh,Landslide,12,2
+Arunachal Pradesh,Earthquake,1,10
+Arunachal Pradesh,Earthquake,2,12
+Arunachal Pradesh,Earthquake,3,10
+Arunachal Pradesh,Earthquake,4,11
+Arunachal Pradesh,Earthquake,5,6
+Arunachal Pradesh,Earthquake,6,18
+Arunachal Pradesh,Earthquake,7,14
+Arunachal Pradesh,Earthquake,8,13
+Arunachal Pradesh,Earthquake,9,19
+Arunachal Pradesh,Earthquake,10,12
+Arunachal Pradesh,Earthquake,11,13
+Arunachal Pradesh,Earthquake,12,5
+Arunachal Pradesh,Flood,4,1
+Arunachal Pradesh,Flood,5,2
+Arunachal Pradesh,Flood,6,5
+Arunachal Pradesh,Flood,7,25
+Arunachal Pradesh,Flood,8,5
+Arunachal Pradesh,Flood,9,2
+Arunachal Pradesh,Flood,10,2
+Arunachal Pradesh,Flood,11,1
+Arunachal Pradesh,Landslide,1,6
+Arunachal Pradesh,Landslide,2,5
+Arunachal Pradesh,Landslide,3,2
+Arunachal Pradesh,Landslide,4,2
+Arunachal Pradesh,Landslide,5,4
+Arunachal Pradesh,Landslide,6,4
+Arunachal Pradesh,Landslide,7,13
+Arunachal Pradesh,Landslide,8,6
+Arunachal Pradesh,Landslide,9,3
+Arunachal Pradesh,Landslide,10,2
+Arunachal Pradesh,Landslide,11,1
+Arunachal Pradesh,Landslide,12,3
+Assam,Earthquake,1,14
+Assam,Earthquake,2,11
+Assam,Earthquake,3,12
+Assam,Earthquake,4,15
+Assam,Earthquake,5,23
+Assam,Earthquake,6,14
+Assam,Earthquake,7,16
+Assam,Earthquake,8,17
+Assam,Earthquake,9,11
+Assam,Earthquake,10,17
+Assam,Earthquake,11,17
+Assam,Earthquake,12,11
+Assam,Flood,1,43
+Assam,Flood,3,8
+Assam,Flood,4,3
+Assam,Flood,5,4
+Assam,Flood,6,17
+Assam,Flood,7,103
+Assam,Flood,8,14
+Assam,Flood,9,24
+Assam,Flood,10,6
+Assam,Landslide,1,4
+Assam,Landslide,2,3
+Assam,Landslide,3,5
+Assam,Landslide,4,2
+Assam,Landslide,5,6
+Assam,Landslide,6,16
+Assam,Landslide,7,15
+Assam,Landslide,8,11
+Assam,Landslide,9,16
+Assam,Landslide,10,3
+Assam,Landslide,11,4
+Assam,Landslide,12,1
+Bihar,Earthquake,2,2
+Bihar,Earthquake,3,1
+Bihar,Earthquake,4,2
+Bihar,Earthquake,5,5
+Bihar,Earthquake,6,1
+Bihar,Earthquake,7,3
+Bihar,Earthquake,8,1
+Bihar,Earthquake,9,2
+Bihar,Flood,1,4
+Bihar,Flood,3,6
+Bihar,Flood,4,3
+Bihar,Flood,5,6
+Bihar,Flood,6,9
+Bihar,Flood,7,73
+Bihar,Flood,8,18
+Bihar,Flood,9,13
+Bihar,Flood,10,5
+Bihar,Flood,12,2
+Bihar,Landslide,5,2
+Bihar,Landslide,9,1
+Chandigarh,Flood,7,4
+Chandigarh,Flood,8,2
+Chhattisgarh,Earthquake,2,1
+Chhattisgarh,Earthquake,10,2
+Chhattisgarh,Flood,2,2
+Chhattisgarh,Flood,6,1
+Chhattisgarh,Flood,7,9
+Chhattisgarh,Flood,8,1
+Chhattisgarh,Flood,9,2
+Chhattisgarh,Flood,10,2
+Chhattisgarh,Flood,11,2
+Chhattisgarh,Flood,12,1
+Daman And Diu,Flood,7,2
+Delhi,Earthquake,7,1
+Delhi,Earthquake,9,2
+Delhi,Earthquake,10,1
+Delhi,Earthquake,11,1
+Delhi,Flood,5,1
+Delhi,Flood,7,12
+Delhi,Flood,8,2
+Delhi,Flood,9,2
+Delhi,Landslide,1,1
+Delhi,Landslide,5,1
+Delhi,Landslide,8,1
+Delhi,Landslide,12,1
+Goa,Cyclone,6,1
+Goa,Cyclone,10,1
+Goa,Cyclone,11,1
+Goa,Flood,5,1
+Goa,Flood,6,1
+Goa,Flood,7,6
+Goa,Flood,8,1
+Goa,Landslide,1,1
+Goa,Landslide,5,2
+Goa,Landslide,6,8
+Goa,Landslide,7,5
+Goa,Landslide,8,1
+Goa,Landslide,9,2
+Goa,Landslide,10,1
+Goa,Landslide,11,1
+Goa,Landslide,12,1
+Gujarat,Cyclone,4,1
+Gujarat,Cyclone,5,6
+Gujarat,Cyclone,6,28
+Gujarat,Cyclone,7,9
+Gujarat,Cyclone,8,2
+Gujarat,Cyclone,9,5
+Gujarat,Cyclone,10,12
+Gujarat,Cyclone,11,5
+Gujarat,Earthquake,1,7
+Gujarat,Earthquake,2,5
+Gujarat,Earthquake,3,4
+Gujarat,Earthquake,4,10
+Gujarat,Earthquake,5,2
+Gujarat,Earthquake,6,3
+Gujarat,Earthquake,7,4
+Gujarat,Earthquake,8,9
+Gujarat,Earthquake,9,3
+Gujarat,Earthquake,10,5
+Gujarat,Earthquake,11,4
+Gujarat,Earthquake,12,2
+Gujarat,Flood,1,17
+Gujarat,Flood,2,1
+Gujarat,Flood,3,1
+Gujarat,Flood,5,3
+Gujarat,Flood,6,10
+Gujarat,Flood,7,59
+Gujarat,Flood,8,11
+Gujarat,Flood,9,9
+Gujarat,Flood,10,1
+Gujarat,Flood,11,1
+Gujarat,Landslide,8,1
+Gujarat,Landslide,11,1
+Haryana,Earthquake,3,2
+Haryana,Earthquake,5,3
+Haryana,Earthquake,6,1
+Haryana,Earthquake,7,1
+Haryana,Earthquake,9,1
+Haryana,Earthquake,11,3
+Haryana,Flood,2,1
+Haryana,Flood,3,1
+Haryana,Flood,6,1
+Haryana,Flood,7,17
+Haryana,Flood,8,5
+Haryana,Flood,9,4
+Haryana,Landslide,4,1
+Haryana,Landslide,8,1
+Haryana,Landslide,9,1
+Haryana,Landslide,11,1
+Himachal Pradesh,Earthquake,1,4
+Himachal Pradesh,Earthquake,2,4
+Himachal Pradesh,Earthquake,3,2
+Himachal Pradesh,Earthquake,4,4
+Himachal Pradesh,Earthquake,5,3
+Himachal Pradesh,Earthquake,6,6
+Himachal Pradesh,Earthquake,7,9
+Himachal Pradesh,Earthquake,8,5
+Himachal Pradesh,Earthquake,9,4
+Himachal Pradesh,Earthquake,10,7
+Himachal Pradesh,Earthquake,11,4
+Himachal Pradesh,Earthquake,12,5
+Himachal Pradesh,Flood,1,8
+Himachal Pradesh,Flood,3,4
+Himachal Pradesh,Flood,5,9
+Himachal Pradesh,Flood,6,5
+Himachal Pradesh,Flood,7,24
+Himachal Pradesh,Flood,8,16
+Himachal Pradesh,Flood,9,6
+Himachal Pradesh,Flood,10,14
+Himachal Pradesh,Landslide,2,4
+Himachal Pradesh,Landslide,3,6
+Himachal Pradesh,Landslide,4,2
+Himachal Pradesh,Landslide,5,2
+Himachal Pradesh,Landslide,6,18
+Himachal Pradesh,Landslide,7,67
+Himachal Pradesh,Landslide,8,27
+Himachal Pradesh,Landslide,9,25
+Himachal Pradesh,Landslide,10,6
+Himachal Pradesh,Landslide,11,7
+Himachal Pradesh,Landslide,12,10
+Jammu And Kashmir,Earthquake,1,10
+Jammu And Kashmir,Earthquake,2,9
+Jammu And Kashmir,Earthquake,3,10
+Jammu And Kashmir,Earthquake,4,10
+Jammu And Kashmir,Earthquake,5,16
+Jammu And Kashmir,Earthquake,6,9
+Jammu And Kashmir,Earthquake,7,11
+Jammu And Kashmir,Earthquake,8,6
+Jammu And Kashmir,Earthquake,9,13
+Jammu And Kashmir,Earthquake,10,18
+Jammu And Kashmir,Earthquake,11,9
+Jammu And Kashmir,Earthquake,12,3
+Jammu And Kashmir,Flood,2,10
+Jammu And Kashmir,Flood,3,4
+Jammu And Kashmir,Flood,4,2
+Jammu And Kashmir,Flood,5,3
+Jammu And Kashmir,Flood,6,6
+Jammu And Kashmir,Flood,7,22
+Jammu And Kashmir,Flood,8,9
+Jammu And Kashmir,Flood,9,9
+Jammu And Kashmir,Flood,10,2
+Jammu And Kashmir,Flood,12,2
+Jammu And Kashmir,Landslide,1,5
+Jammu And Kashmir,Landslide,2,21
+Jammu And Kashmir,Landslide,3,37
+Jammu And Kashmir,Landslide,4,15
+Jammu And Kashmir,Landslide,5,16
+Jammu And Kashmir,Landslide,6,23
+Jammu And Kashmir,Landslide,7,25
+Jammu And Kashmir,Landslide,8,36
+Jammu And Kashmir,Landslide,9,10
+Jammu And Kashmir,Landslide,10,8
+Jammu And Kashmir,Landslide,11,6
+Jammu And Kashmir,Landslide,12,9
+Jharkhand,Earthquake,2,1
+Jharkhand,Earthquake,3,1
+Jharkhand,Earthquake,5,1
+Jharkhand,Earthquake,6,2
+Jharkhand,Earthquake,10,1
+Jharkhand,Earthquake,11,1
+Jharkhand,Earthquake,12,1
+Jharkhand,Flood,3,5
+Jharkhand,Flood,6,3
+Jharkhand,Flood,7,8
+Jharkhand,Flood,8,2
+Jharkhand,Flood,9,6
+Jharkhand,Flood,10,2
+Jharkhand,Flood,12,1
+Jharkhand,Landslide,7,2
+Jharkhand,Landslide,11,1
+Karnataka,Cyclone,5,1
+Karnataka,Cyclone,6,2
+Karnataka,Cyclone,10,1
+Karnataka,Cyclone,12,1
+Karnataka,Flood,1,14
+Karnataka,Flood,2,5
+Karnataka,Flood,3,3
+Karnataka,Flood,4,7
+Karnataka,Flood,5,8
+Karnataka,Flood,6,9
+Karnataka,Flood,7,26
+Karnataka,Flood,8,10
+Karnataka,Flood,9,4
+Karnataka,Flood,10,9
+Karnataka,Flood,11,6
+Karnataka,Landslide,2,4
+Karnataka,Landslide,3,1
+Karnataka,Landslide,4,2
+Karnataka,Landslide,6,7
+Karnataka,Landslide,7,6
+Karnataka,Landslide,8,3
+Karnataka,Landslide,9,1
+Karnataka,Landslide,10,1
+Karnataka,Landslide,11,2
+Karnataka,Landslide,12,3
+Kerala,Cyclone,5,1
+Kerala,Cyclone,10,1
+Kerala,Cyclone,11,2
+Kerala,Earthquake,7,1
+Kerala,Earthquake,12,1
+Kerala,Flood,1,15
+Kerala,Flood,2,1
+Kerala,Flood,3,17
+Kerala,Flood,5,4
+Kerala,Flood,6,15
+Kerala,Flood,7,36
+Kerala,Flood,8,12
+Kerala,Flood,9,2
+Kerala,Flood,10,26
+Kerala,Flood,11,9
+Kerala,Flood,12,7
+Kerala,Landslide,1,1
+Kerala,Landslide,2,4
+Kerala,Landslide,3,2
+Kerala,Landslide,4,3
+Kerala,Landslide,5,9
+Kerala,Landslide,6,6
+Kerala,Landslide,7,8
+Kerala,Landslide,8,16
+Kerala,Landslide,9,3
+Kerala,Landslide,10,3
+Kerala,Landslide,11,4
+Kerala,Landslide,12,1
+Ladakh,Earthquake,1,10
+Ladakh,Earthquake,2,8
+Ladakh,Earthquake,3,8
+Ladakh,Earthquake,4,5
+Ladakh,Earthquake,5,8
+Ladakh,Earthquake,6,6
+Ladakh,Earthquake,7,5
+Ladakh,Earthquake,8,8
+Ladakh,Earthquake,9,7
+Ladakh,Earthquake,10,7
+Ladakh,Earthquake,11,9
+Ladakh,Earthquake,12,11
+Ladakh,Flood,7,1
+Ladakh,Flood,8,1
+Madhya Pradesh,Earthquake,1,2
+Madhya Pradesh,Earthquake,3,1
+Madhya Pradesh,Earthquake,5,1
+Madhya Pradesh,Earthquake,7,1
+Madhya Pradesh,Earthquake,8,1
+Madhya Pradesh,Earthquake,10,1
+Madhya Pradesh,Flood,2,3
+Madhya Pradesh,Flood,3,2
+Madhya Pradesh,Flood,5,1
+Madhya Pradesh,Flood,6,5
+Madhya Pradesh,Flood,7,25
+Madhya Pradesh,Flood,8,12
+Madhya Pradesh,Flood,9,3
+Madhya Pradesh,Flood,10,1
+Madhya Pradesh,Flood,11,1
+Madhya Pradesh,Landslide,7,2
+Maharashtra,Cyclone,5,2
+Maharashtra,Cyclone,6,1
+Maharashtra,Cyclone,9,1
+Maharashtra,Cyclone,10,1
+Maharashtra,Cyclone,11,4
+Maharashtra,Earthquake,1,2
+Maharashtra,Earthquake,2,2
+Maharashtra,Earthquake,3,4
+Maharashtra,Earthquake,4,4
+Maharashtra,Earthquake,6,2
+Maharashtra,Earthquake,7,2
+Maharashtra,Earthquake,8,4
+Maharashtra,Earthquake,9,6
+Maharashtra,Earthquake,10,3
+Maharashtra,Earthquake,11,6
+Maharashtra,Earthquake,12,5
+Maharashtra,Flood,1,7
+Maharashtra,Flood,2,5
+Maharashtra,Flood,3,3
+Maharashtra,Flood,5,6
+Maharashtra,Flood,6,9
+Maharashtra,Flood,7,39
+Maharashtra,Flood,8,10
+Maharashtra,Flood,9,9
+Maharashtra,Flood,10,2
+Maharashtra,Flood,11,2
+Maharashtra,Flood,12,6
+Maharashtra,Landslide,1,3
+Maharashtra,Landslide,2,2
+Maharashtra,Landslide,3,4
+Maharashtra,Landslide,4,2
+Maharashtra,Landslide,6,18
+Maharashtra,Landslide,7,22
+Maharashtra,Landslide,8,12
+Maharashtra,Landslide,9,3
+Maharashtra,Landslide,10,4
+Maharashtra,Landslide,11,2
+Maharashtra,Landslide,12,2
+Manipur,Earthquake,1,15
+Manipur,Earthquake,2,10
+Manipur,Earthquake,3,21
+Manipur,Earthquake,4,20
+Manipur,Earthquake,5,20
+Manipur,Earthquake,6,14
+Manipur,Earthquake,7,13
+Manipur,Earthquake,8,21
+Manipur,Earthquake,9,18
+Manipur,Earthquake,10,13
+Manipur,Earthquake,11,13
+Manipur,Earthquake,12,16
+Manipur,Flood,4,1
+Manipur,Flood,6,2
+Manipur,Flood,7,10
+Manipur,Flood,8,3
+Manipur,Flood,10,1
+Manipur,Landslide,1,15
+Manipur,Landslide,3,1
+Manipur,Landslide,4,1
+Manipur,Landslide,5,2
+Manipur,Landslide,6,4
+Manipur,Landslide,7,23
+Manipur,Landslide,8,8
+Manipur,Landslide,9,2
+Manipur,Landslide,10,3
+Manipur,Landslide,11,4
+Meghalaya,Earthquake,1,1
+Meghalaya,Earthquake,2,4
+Meghalaya,Earthquake,3,3
+Meghalaya,Earthquake,4,6
+Meghalaya,Earthquake,5,4
+Meghalaya,Earthquake,6,2
+Meghalaya,Earthquake,7,2
+Meghalaya,Earthquake,8,4
+Meghalaya,Earthquake,9,9
+Meghalaya,Earthquake,10,1
+Meghalaya,Earthquake,11,1
+Meghalaya,Earthquake,12,5
+Meghalaya,Flood,6,1
+Meghalaya,Flood,7,11
+Meghalaya,Flood,8,3
+Meghalaya,Flood,9,2
+Meghalaya,Flood,10,4
+Meghalaya,Landslide,4,1
+Meghalaya,Landslide,5,2
+Meghalaya,Landslide,6,7
+Meghalaya,Landslide,7,8
+Meghalaya,Landslide,8,7
+Meghalaya,Landslide,9,5
+Meghalaya,Landslide,10,1
+Meghalaya,Landslide,11,2
+Mizoram,Earthquake,1,8
+Mizoram,Earthquake,2,4
+Mizoram,Earthquake,3,2
+Mizoram,Earthquake,4,3
+Mizoram,Earthquake,5,3
+Mizoram,Earthquake,6,2
+Mizoram,Earthquake,7,4
+Mizoram,Earthquake,8,1
+Mizoram,Earthquake,9,5
+Mizoram,Earthquake,10,5
+Mizoram,Earthquake,11,6
+Mizoram,Earthquake,12,5
+Mizoram,Flood,3,2
+Mizoram,Landslide,5,1
+Mizoram,Landslide,6,2
+Mizoram,Landslide,7,13
+Mizoram,Landslide,8,5
+Mizoram,Landslide,9,11
+Mizoram,Landslide,11,2
+Nagaland,Earthquake,1,1
+Nagaland,Earthquake,2,9
+Nagaland,Earthquake,3,4
+Nagaland,Earthquake,4,5
+Nagaland,Earthquake,5,2
+Nagaland,Earthquake,6,2
+Nagaland,Earthquake,7,7
+Nagaland,Earthquake,9,1
+Nagaland,Earthquake,11,7
+Nagaland,Earthquake,12,1
+Nagaland,Flood,4,1
+Nagaland,Flood,5,1
+Nagaland,Flood,7,2
+Nagaland,Landslide,1,3
+Nagaland,Landslide,2,1
+Nagaland,Landslide,4,8
+Nagaland,Landslide,5,1
+Nagaland,Landslide,6,11
+Nagaland,Landslide,7,17
+Nagaland,Landslide,8,22
+Nagaland,Landslide,9,6
+Nagaland,Landslide,10,4
+Nagaland,Landslide,11,2
+Nagaland,Landslide,12,5
+Odisha,Cyclone,2,1
+Odisha,Cyclone,4,1
+Odisha,Cyclone,5,17
+Odisha,Cyclone,6,30
+Odisha,Cyclone,7,52
+Odisha,Cyclone,8,62
+Odisha,Cyclone,9,41
+Odisha,Cyclone,10,35
+Odisha,Cyclone,11,15
+Odisha,Cyclone,12,2
+Odisha,Earthquake,3,1
+Odisha,Earthquake,7,1
+Odisha,Earthquake,12,1
+Odisha,Flood,1,1
+Odisha,Flood,2,1
+Odisha,Flood,3,7
+Odisha,Flood,4,1
+Odisha,Flood,5,8
+Odisha,Flood,6,1
+Odisha,Flood,7,57
+Odisha,Flood,8,6
+Odisha,Flood,9,10
+Odisha,Flood,10,6
+Odisha,Flood,11,3
+Odisha,Flood,12,1
+Odisha,Landslide,3,1
+Odisha,Landslide,5,1
+Odisha,Landslide,6,1
+Odisha,Landslide,9,4
+Odisha,Landslide,10,1
+Odisha,Landslide,12,2
+Puducherry,Cyclone,11,1
+Puducherry,Earthquake,7,1
+Puducherry,Earthquake,12,1
+Puducherry,Flood,2,1
+Puducherry,Flood,7,7
+Puducherry,Flood,10,1
+Puducherry,Flood,11,3
+Puducherry,Flood,12,3
+Punjab,Earthquake,1,1
+Punjab,Earthquake,2,2
+Punjab,Earthquake,3,1
+Punjab,Earthquake,7,2
+Punjab,Earthquake,8,2
+Punjab,Earthquake,10,2
+Punjab,Earthquake,11,1
+Punjab,Flood,1,8
+Punjab,Flood,2,2
+Punjab,Flood,3,3
+Punjab,Flood,4,2
+Punjab,Flood,5,2
+Punjab,Flood,6,3
+Punjab,Flood,7,32
+Punjab,Flood,8,10
+Punjab,Flood,9,8
+Punjab,Flood,10,2
+Punjab,Flood,12,1
+Rajasthan,Earthquake,4,1
+Rajasthan,Earthquake,5,1
+Rajasthan,Earthquake,8,1
+Rajasthan,Earthquake,9,1
+Rajasthan,Earthquake,11,3
+Rajasthan,Earthquake,12,1
+Rajasthan,Flood,2,1
+Rajasthan,Flood,3,3
+Rajasthan,Flood,5,5
+Rajasthan,Flood,6,1
+Rajasthan,Flood,7,22
+Rajasthan,Flood,8,14
+Rajasthan,Flood,9,7
+Rajasthan,Flood,11,6
+Rajasthan,Flood,12,1
+Rajasthan,Landslide,5,1
+Rajasthan,Landslide,7,1
+Rajasthan,Landslide,8,1
+Rajasthan,Landslide,9,1
+Rajasthan,Landslide,10,1
+Rajasthan,Landslide,11,1
+Sikkim,Earthquake,1,1
+Sikkim,Earthquake,2,2
+Sikkim,Earthquake,3,1
+Sikkim,Earthquake,4,1
+Sikkim,Earthquake,5,1
+Sikkim,Earthquake,6,3
+Sikkim,Earthquake,7,2
+Sikkim,Earthquake,9,4
+Sikkim,Earthquake,10,1
+Sikkim,Earthquake,11,1
+Sikkim,Earthquake,12,3
+Sikkim,Flood,7,6
+Sikkim,Flood,8,1
+Sikkim,Flood,9,3
+Sikkim,Landslide,1,1
+Sikkim,Landslide,4,3
+Sikkim,Landslide,5,3
+Sikkim,Landslide,6,2
+Sikkim,Landslide,7,13
+Sikkim,Landslide,8,6
+Sikkim,Landslide,9,8
+Sikkim,Landslide,10,3
+Sikkim,Landslide,12,1
+Tamil Nadu,Cyclone,1,8
+Tamil Nadu,Cyclone,2,1
+Tamil Nadu,Cyclone,3,5
+Tamil Nadu,Cyclone,4,2
+Tamil Nadu,Cyclone,5,9
+Tamil Nadu,Cyclone,9,4
+Tamil Nadu,Cyclone,10,29
+Tamil Nadu,Cyclone,11,59
+Tamil Nadu,Cyclone,12,47
+Tamil Nadu,Earthquake,7,1
+Tamil Nadu,Earthquake,9,1
+Tamil Nadu,Earthquake,12,1
+Tamil Nadu,Flood,3,1
+Tamil Nadu,Flood,5,2
+Tamil Nadu,Flood,6,4
+Tamil Nadu,Flood,7,25
+Tamil Nadu,Flood,10,6
+Tamil Nadu,Flood,11,19
+Tamil Nadu,Flood,12,8
+Tamil Nadu,Landslide,2,2
+Tamil Nadu,Landslide,3,1
+Tamil Nadu,Landslide,4,2
+Tamil Nadu,Landslide,5,1
+Tamil Nadu,Landslide,6,7
+Tamil Nadu,Landslide,7,8
+Tamil Nadu,Landslide,8,3
+Tamil Nadu,Landslide,9,4
+Tamil Nadu,Landslide,10,7
+Tamil Nadu,Landslide,11,6
+Tamil Nadu,Landslide,12,1
+Telangana,Earthquake,5,1
+Telangana,Earthquake,8,1
+Telangana,Earthquake,10,1
+Telangana,Flood,1,6
+Telangana,Flood,2,3
+Telangana,Flood,6,12
+Telangana,Flood,7,1
+Telangana,Flood,9,1
+Telangana,Landslide,10,1
+Tripura,Earthquake,1,1
+Tripura,Earthquake,2,1
+Tripura,Earthquake,5,1
+Tripura,Earthquake,6,3
+Tripura,Earthquake,7,2
+Tripura,Earthquake,8,2
+Tripura,Earthquake,11,1
+Tripura,Earthquake,12,2
+Tripura,Flood,4,1
+Tripura,Flood,5,3
+Tripura,Flood,6,4
+Tripura,Flood,7,14
+Tripura,Flood,8,3
+Tripura,Flood,10,1
+Tripura,Landslide,3,1
+Tripura,Landslide,7,2
+Tripura,Landslide,8,2
+Uttar Pradesh,Earthquake,1,1
+Uttar Pradesh,Earthquake,3,1
+Uttar Pradesh,Earthquake,4,1
+Uttar Pradesh,Earthquake,7,2
+Uttar Pradesh,Earthquake,10,1
+Uttar Pradesh,Flood,2,1
+Uttar Pradesh,Flood,3,2
+Uttar Pradesh,Flood,4,3
+Uttar Pradesh,Flood,5,11
+Uttar Pradesh,Flood,6,8
+Uttar Pradesh,Flood,7,68
+Uttar Pradesh,Flood,8,16
+Uttar Pradesh,Flood,9,21
+Uttar Pradesh,Flood,10,2
+Uttar Pradesh,Flood,11,8
+Uttar Pradesh,Flood,12,1
+Uttar Pradesh,Landslide,5,1
+Uttar Pradesh,Landslide,7,3
+Uttar Pradesh,Landslide,12,1
+Uttarakhand,Earthquake,1,4
+Uttarakhand,Earthquake,2,8
+Uttarakhand,Earthquake,3,10
+Uttarakhand,Earthquake,4,8
+Uttarakhand,Earthquake,5,10
+Uttarakhand,Earthquake,6,6
+Uttarakhand,Earthquake,7,6
+Uttarakhand,Earthquake,8,13
+Uttarakhand,Earthquake,9,9
+Uttarakhand,Earthquake,10,7
+Uttarakhand,Earthquake,11,5
+Uttarakhand,Earthquake,12,4
+Uttarakhand,Flood,3,3
+Uttarakhand,Flood,6,7
+Uttarakhand,Flood,7,21
+Uttarakhand,Flood,8,5
+Uttarakhand,Flood,9,5
+Uttarakhand,Landslide,1,2
+Uttarakhand,Landslide,2,2
+Uttarakhand,Landslide,3,5
+Uttarakhand,Landslide,4,11
+Uttarakhand,Landslide,5,9
+Uttarakhand,Landslide,6,29
+Uttarakhand,Landslide,7,90
+Uttarakhand,Landslide,8,41
+Uttarakhand,Landslide,9,26
+Uttarakhand,Landslide,10,7
+Uttarakhand,Landslide,11,5
+Uttarakhand,Landslide,12,6
+West Bengal,Cyclone,4,3
+West Bengal,Cyclone,5,22
+West Bengal,Cyclone,6,43
+West Bengal,Cyclone,7,61
+West Bengal,Cyclone,8,64
+West Bengal,Cyclone,9,44
+West Bengal,Cyclone,10,27
+West Bengal,Cyclone,11,17
+West Bengal,Cyclone,12,6
+West Bengal,Earthquake,1,1
+West Bengal,Earthquake,3,1
+West Bengal,Earthquake,4,1
+West Bengal,Earthquake,6,1
+West Bengal,Earthquake,7,4
+West Bengal,Earthquake,8,2
+West Bengal,Earthquake,9,5
+West Bengal,Earthquake,10,1
+West Bengal,Earthquake,12,3
+West Bengal,Flood,1,2
+West Bengal,Flood,3,3
+West Bengal,Flood,4,3
+West Bengal,Flood,5,3
+West Bengal,Flood,6,8
+West Bengal,Flood,7,63
+West Bengal,Flood,8,10
+West Bengal,Flood,9,10
+West Bengal,Flood,10,7
+West Bengal,Flood,11,3
+West Bengal,Landslide,1,6
+West Bengal,Landslide,2,1
+West Bengal,Landslide,3,1
+West Bengal,Landslide,4,2
+West Bengal,Landslide,5,5
+West Bengal,Landslide,6,19
+West Bengal,Landslide,7,21
+West Bengal,Landslide,8,16
+West Bengal,Landslide,9,5
+West Bengal,Landslide,10,2
+West Bengal,Landslide,11,1
+West Bengal,Landslide,12,2
